@@ -5,7 +5,7 @@
         "Punchline": "Never miss your Oshi's stream again",
         "Description": "- A simple plugin to quickly view when your VTuber oshi is going live using Holodex",
         "InternalName": "VTScheduleXIV",
-        "AssemblyVersion": "1.0.0.5",
+        "AssemblyVersion": "0.0.0.1",
         "RepoUrl": "https://github.com/pinapelz/VTScheduleXIV",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,

@@ -1,0 +1,22 @@
+[
+    {
+        "Author": "Pinapelz",
+        "Name": "VTScheduleXIV",
+        "Punchline": "Never miss your Oshi's stream again",
+        "Description": "- A simple plugin to quickly view when your VTuber oshi is going live using Holodex",
+        "InternalName": "VTScheduleXIV",
+        "AssemblyVersion": "1.0.0.5",
+        "RepoUrl": "https://github.com/pinapelz/VTScheduleXIV",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/pinapelz/VTScheduleXIV/releases/download/1.0/latest.zipp",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/pinapelz/VTScheduleXIV/releases/download/1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/pinapelz/VTScheduleXIV/releases/download/1.0/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+    }
+]

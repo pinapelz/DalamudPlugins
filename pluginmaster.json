@@ -1,22 +1,25 @@
 [
-    {
-        "Author": "Pinapelz",
-        "Name": "VTScheduleXIV",
-        "Punchline": "Never miss your Oshi's stream again",
-        "Description": "- A simple plugin to quickly view when your VTuber oshi is going live using Holodex",
-        "InternalName": "VTScheduleXIV",
-        "AssemblyVersion": "0.0.0.1",
-        "RepoUrl": "https://github.com/pinapelz/VTScheduleXIV",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/pinapelz/VTScheduleXIV/releases/download/1.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/pinapelz/VTScheduleXIV/releases/download/1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/pinapelz/VTScheduleXIV/releases/download/1.0/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "0"
-    }
+  {
+    "Author": "pinapelz",
+    "Name": "Malmstone Calculator",
+    "InternalName": "Malmstone",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Calculate how much more PVP you have to play before reaching a certain rank in the current PVP Series",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "pvp",
+      "malmstone",
+      "series",
+      "calculator"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "A PVP Series Malmstones Experience Calculator",
+    "DownloadLinkInstall": "https://github.com/pinapelz/ffxiv-malmstone/releases/download/v1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/pinapelz/ffxiv-malmstone/releases/download/v1.0.0.0/latest.zip",
+    "IconUrl": "https://files.pinapelz.com/icon.png"
+  }
 ]

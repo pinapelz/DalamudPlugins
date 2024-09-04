@@ -18,6 +18,9 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "A PVP Series Malmstone Level Calculator",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://github.com/pinapelz/ffxiv-malmstone/releases/download/v1.0.5.0/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/pinapelz/ffxiv-malmstone/releases/download/v1.0.5.0/latest.zip",
+  "IconUrl": "https://files.pinapelz.com/icon.png"
 }
 ]

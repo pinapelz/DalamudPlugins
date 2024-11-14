@@ -12,15 +12,15 @@
     "series",
     "calculator"
   ],
-  "DalamudApiLevel": 10,
+  "DalamudApiLevel": 11,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "A PVP Series Malmstone Level Calculator",
   "AcceptsFeedback": true,
-  "DownloadLinkInstall": "https://github.com/pinapelz/ffxiv-malmstone/releases/download/v1.0.6.0/latest.zip",
-  "DownloadLinkUpdate": "https://github.com/pinapelz/ffxiv-malmstone/releases/download/v1.0.6.0/latest.zip",
+  "DownloadLinkInstall": "https://github.com/pinapelz/ffxiv-malmstone/releases/latest/download/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/pinapelz/ffxiv-malmstone/releases/latest/download/latest.zip",
   "IconUrl": "https://files.pinapelz.com/icon.png"
 },
   {
@@ -39,6 +39,8 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Receive/Send Discord messages from FFXIV.",
-  "AcceptsFeedback": true
+  "AcceptsFeedback": true,
+  "DownloadLinkInstall": "https://github.com/pinapelz/discord-to-xiv/releases/latest/download/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/pinapelz/discord-to-xiv/releases/latest/download/latest.zip",
 }
 ]
